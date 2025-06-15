@@ -4,9 +4,15 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
+<<<<<<< HEAD
 - **Nombre y Apellido**: [Completar con nombre y apellido]
 - **Ciclo Lectivo**: 2025
 - **Carrera**: [Completar con nombre de la carrera]
+=======
+- **Nombre y Apellido**: [Agustin Vera]
+- **Ciclo Lectivo**: 2025
+- **Carrera**: [Computacion I]
+>>>>>>> 377d822 (Entrega TP CLinica)
 
 ## ⏰ Información Importante sobre la Entrega
 
